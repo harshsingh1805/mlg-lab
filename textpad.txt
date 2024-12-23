@@ -1,0 +1,25 @@
+LAB 1 Preprocess- nologin.in/mllab0 ( https://colab.research.google.com/drive/1oL-8KjvM5pZ0ZWbvhlITzeSQXV-OqJHE?usp=sharing )
+
+LAB 2 BinarySGD- https://www.nologin.in/mllab2 ( https://colab.research.google.com/drive/1NCs2mynj88cxAmk50CXKuzASEQ3UyNzJ?usp=sharing )
+
+LAB 3 Multiclass - https://www.nologin.in/mllab3 ( https://colab.research.google.com/drive/1Vu-QPY8xMFl5OmdS-sVitJ8mKj8QcUm3?usp=sharing )
+
+LAB 4 UNIVARIATE LR - https://www.nologin.in/mllab4 ( https://colab.research.google.com/drive/13WQMb_f_J6KooDKvpgvCqjdvbbszfddJ?usp=sharing )
+
+LAB 5 MULTIVARIATE LR - https://www.nologin.in/mllab5 ( https://colab.research.google.com/drive/1NCJd3UP9xCLFRQEa1GJrZY1uJjXSCoMY?usp=sharing )
+
+LAB 6 POLYNOMIAL LR - https://www.nologin.in/mllab7 ( https://colab.research.google.com/drive/15uYC-LZfSxZpb2aPmHI6I_521XD771UM?usp=sharing )
+
+LAB 7 BINARY LOGISTICS - https://www.nologin.in/mllab6 ( https://colab.research.google.com/drive/1SUEZiyb-FduAPYsodLmxBGJn6BtN4hvu?usp=sharing )
+							
+							( https://colab.research.google.com/drive/1UkIZ2bo0ZBfjTaPRPQrG25Sic0C3Na1d?usp=sharing )
+
+LAB 8 MUTINOMIAL LOGISTICS - https://www.nologin.in/mllab6 ( https://colab.research.google.com/drive/1hOZM7UrHgVvgR9RWtSK6g4RoD3tontFF?usp=sharing )
+
+LAB 9 KMEANS - https://www.nologin.in/mllab10 ( https://colab.research.google.com/drive/1YZBztNng80hG1Wg9bhuNPJdS1jLKo5Lt?usp=sharing )
+
+LAB 10 DECISION TREE - nologin.in/mllab8 
+
+LAB 11 PCA - https://www.nologin.in/mllab9  ( https://colab.research.google.com/drive/1bArDn_xsabaP9QBmziotmUrf7KK1SvJq?usp=sharing )
+
+
